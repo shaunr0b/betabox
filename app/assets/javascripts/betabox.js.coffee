@@ -1,9 +1,18 @@
 window.Betabox =
-  Models: {}
+  
+  Models:{}
   Collections: {}
   Views: {}
   Routers: {}
-  init: -> alert 'Hello from Backbone!'
+  init: ->
+    window.router = new Betabox.Routers.Artists
+    Backbone.history.start()
+
+
 
 $(document).ready ->
   Betabox.init()
+  
+
+
+

@@ -1,0 +1,17 @@
+.container
+  .row
+    .span4
+      #side
+        %button.btn.btn-primary.btn-large(onclick="location.href='#artists/new'")
+          %i.icon-plus
+          New Artist
+        .content
+    .span8
+      #main
+        &nbsp;
+        .content
+  
+
+/-content_for :scripts do
+/:javascript
+/var Artists = new Betabox.Models.Artists(#{@artists.to_json});

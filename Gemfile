@@ -14,11 +14,16 @@ group :assets do
   gem 'less-rails',   '~> 2.2.1'
   gem 'coffee-rails', '~> 3.2.1'
 
+  gem 'haml_coffee_assets'
+  gem 'execjs'
+
   # See https://github.com/sstephenson/execjs#readme for more supported runtimes
   # gem 'therubyracer', :platform => :ruby
 
   gem 'uglifier', '>= 1.0.3'
 end
+
+gem 'xml-simple'
 
 gem 'jquery-rails'
 
@@ -36,9 +41,11 @@ gem 'jquery-rails'
 
 # To use debugger
 # gem 'ruby-debug19', :require => 'ruby-debug'
-gem 'slim-rails'
+
+gem 'haml-rails'
 gem 'backbone-on-rails'
 gem 'simple_form'
 gem 'country_select'
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
-
+gem 'backbone-forms-rails', :git => 'git@github.com:env/backbone-forms-rails.git'
+gem 'yui-rails'

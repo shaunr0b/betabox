@@ -1,0 +1,10 @@
+%h1=@artist.get('name')
+
+%button.btn(onclick="location.href='#artists/#{@artist.get('id')}/edit'") Edit
+
+!=@artist.get('bio')
+
+%p=@artist.get('phone')
+-photo = @artist.get('photo')
+-if photo?
+  %img(src ="http://riotactcomedy.com/crop/500/500/c/#{@artist.get('photo')}"  )

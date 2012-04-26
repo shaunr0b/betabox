@@ -1,0 +1,33 @@
+%form.form-horizontal
+  .well
+    %fieldset
+      %legend%=@artist.get('name')
+    
+      .control-group
+        %label.control-label(for='name') Name
+        .controls
+          %input#name(type='text', value="#{ @artist.get('name')}" )
+      
+      .control-group
+        %label.control-label(for='bio') Bio
+        .controls
+          %textarea#bio.span6(type='text',rows='10')!=@artist.get('bio')
+
+      .control-group
+        %label.control-label(for='name') Image
+        .controls
+          %input#file(type='file')
+    
+
+      .control-group  
+        .controls
+          %button.btn.btn-primary.save
+            %i.icon-file
+            Save
+          %button.btn.delete
+            %i.icon-trash
+            Delete
+      
+    
+      %input(type='hidden', name='photo', value="#{ @artist.get('photo') }" )
+      
