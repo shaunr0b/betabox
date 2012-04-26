@@ -27,6 +27,7 @@ class Betabox.Views.ArtistForm extends Backbone.View
     else
       this.model.save()
       id = this.model.get('id')
+      window.sidebar.render()
       window.router.navigate("/artists/#{id}", {trigger: true})
       
           

@@ -1,6 +1,8 @@
 %h1=@artist.get('name')
 
-%button.btn(onclick="location.href='#artists/#{@artist.get('id')}/edit'") Edit
+%button.btn(onclick="location.href='#artists/#{@artist.get('id')}/edit'")
+  %i.icon-edit
+  Edit
 
 !=@artist.get('bio')
 
