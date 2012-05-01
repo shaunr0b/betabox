@@ -7,9 +7,12 @@
   <inventory>300</inventory>
   <start_date>1343359462</start_date>
   <price_range>$15 - $18</price_range>
-  <line><p>From The &#8220;Tourgasm Live&#8221; Tour &amp; The Hit FX Show &#8220;Louie&#8221;
-</p></line>
-  <end_date>1343561062
+  <line>
+<![CDATA[
+<p>From The &#8220;Tourgasm Live&#8221; Tour &amp; The Hit FX Show &#8220;Louie&#8221;
+</p>]]>
+	</line>
+  <end_date>1343561062</end_date>
   <comedians>
    
      <artist>Robert Kelly</artist>
@@ -80,9 +83,12 @@
   <inventory>300</inventory>
   <start_date>1340945584</start_date>
   <price_range>$20 - $22</price_range>
-  <line><p>From &#8216;Last Comic Standing&#8217; Season 7 &amp; Comedy Central Presents
-</p></line>
-  <end_date>1341143584
+  <line>
+<![CDATA[
+<p>From &#8216;Last Comic Standing&#8217; Season 7 &amp; Comedy Central Presents
+</p>]]>
+	</line>
+  <end_date>1341143584</end_date>
   <comedians>
    
      <artist>Rachel Feinstein</artist>
@@ -157,9 +163,12 @@
   <inventory>300</inventory>
   <start_date>1340332243</start_date>
   <price_range>$18 - $22</price_range>
-  <line><p>From the SNL Cast &amp; Russel Simmons Def Comedy Jam
-</p></line>
-  <end_date>1340537443
+  <line>
+<![CDATA[
+<p>From the SNL Cast &amp; Russel Simmons Def Comedy Jam
+</p>]]>
+	</line>
+  <end_date>1340537443</end_date>
   <comedians>
    
      <artist>Dean Edwards</artist>
@@ -230,9 +239,12 @@
   <inventory>300</inventory>
   <start_date>1339735477</start_date>
   <price_range>$17 - $20</price_range>
-  <line><p>From The Tonight Show, Fox&#8217;s &#8220;Breaking In&#8221; &amp; Comedy Central&#8217;s &#8220;Comics to Watch&#8221; List
-</p></line>
-  <end_date>1339933477
+  <line>
+<![CDATA[
+<p>From The Tonight Show, Fox&#8217;s &#8220;Breaking In&#8221; &amp; Comedy Central&#8217;s &#8220;Comics to Watch&#8221; List
+</p>]]>
+	</line>
+  <end_date>1339933477</end_date>
   <comedians>
    
      <artist>Ali Wong</artist>
@@ -305,9 +317,12 @@
   <inventory>300</inventory>
   <start_date>1339216357</start_date>
   <price_range>$20 - $22</price_range>
-  <line><p>From The Daily Show Writing Room &amp; Lewis Black&#8217;s &#8220;Red White and Screwed&#8221; Tour
-</p></line>
-  <end_date>1339328797
+  <line>
+<![CDATA[
+<p>From The Daily Show Writing Room &amp; Lewis Black&#8217;s &#8220;Red White and Screwed&#8221; Tour
+</p>]]>
+	</line>
+  <end_date>1339328797</end_date>
   <comedians>
    
      <artist>Rory Albanese</artist>
@@ -367,9 +382,12 @@
   <inventory>300</inventory>
   <start_date>1339111261</start_date>
   <price_range>$12</price_range>
-  <line><p>SNL Weekend Update contributing writer, BBC &amp; the NFL Network
-</p></line>
-  <end_date>1339154461
+  <line>
+<![CDATA[
+<p>SNL Weekend Update contributing writer, BBC &amp; the NFL Network
+</p>]]>
+	</line>
+  <end_date>1339154461</end_date>
   <comedians>
    
      <artist>Ryan Conner</artist>
@@ -412,9 +430,12 @@
   <inventory>300</inventory>
   <start_date>1339027437</start_date>
   <price_range>$15</price_range>
-  <line><p>From Comedy Central&#8217;s &#8216;Premium Blend&#8217; &amp; Last Comic Standing 
-</p></line>
-  <end_date>1339067997
+  <line>
+<![CDATA[
+<p>From Comedy Central&#8217;s &#8216;Premium Blend&#8217; &amp; Last Comic Standing 
+</p>]]>
+	</line>
+  <end_date>1339067997</end_date>
   <comedians>
    
      <artist>Jessica Kirson</artist>
@@ -464,9 +485,12 @@
   <inventory>300</inventory>
   <start_date>1338534966</start_date>
   <price_range>$17 - $20</price_range>
-  <line><p>From Every Late Night Show Ever &amp; His Own Comedy Central Specials
-</p></line>
-  <end_date>1338722166
+  <line>
+<![CDATA[
+<p>From Every Late Night Show Ever &amp; His Own Comedy Central Specials
+</p>]]>
+	</line>
+  <end_date>1338722166</end_date>
   <comedians>
    
      <artist>Ted Alexandro</artist>
@@ -541,8 +565,11 @@
   <inventory>300</inventory>
   <start_date>1338328815</start_date>
   <price_range>$0</price_range>
-  <line></line>
-  <end_date>1338379155
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1338379155</end_date>
   <comedians>
    
   </comedians>
@@ -589,9 +616,12 @@
   <inventory>300</inventory>
   <start_date>1337919460</start_date>
   <price_range>$22-$25</price_range>
-  <line><p>The King of Venice Beach Returns to the Nation&#8217;s Capital!
-</p></line>
-  <end_date>1338117460
+  <line>
+<![CDATA[
+<p>The King of Venice Beach Returns to the Nation&#8217;s Capital!
+</p>]]>
+	</line>
+  <end_date>1338117460</end_date>
   <comedians>
    
      <artist>Michael Colyar</artist>
@@ -656,8 +686,11 @@
   <inventory>300</inventory>
   <start_date>1337724029</start_date>
   <price_range>$0</price_range>
-  <line></line>
-  <end_date>1337774369
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1337774369</end_date>
   <comedians>
    
   </comedians>
@@ -704,9 +737,12 @@
   <inventory>200</inventory>
   <start_date>1337562560</start_date>
   <price_range>$15</price_range>
-  <line><p>Sexy Mo Productions Presents Some Funny Females For Your Enjoyment!
-</p></line>
-  <end_date>1337598560
+  <line>
+<![CDATA[
+<p>Sexy Mo Productions Presents Some Funny Females For Your Enjoyment!
+</p>]]>
+	</line>
+  <end_date>1337598560</end_date>
   <comedians>
    
      <artist>Anissa &#8216;Darkchild&#8217; Banes</artist>
@@ -745,9 +781,12 @@
   <inventory>300</inventory>
   <start_date>1337405308</start_date>
   <price_range>$20 - $25</price_range>
-  <line><p>From &#8220;Chelsea Lately&#8221; &amp; Happy Madison&#8217;s &#8220;The College Experiment&#8221;
-</p></line>
-  <end_date>1337513308
+  <line>
+<![CDATA[
+<p>From &#8220;Chelsea Lately&#8221; &amp; Happy Madison&#8217;s &#8220;The College Experiment&#8221;
+</p>]]>
+	</line>
+  <end_date>1337513308</end_date>
   <comedians>
    
      <artist>Josh Wolf</artist>
@@ -819,9 +858,12 @@
   <inventory>300</inventory>
   <start_date>1337299583</start_date>
   <price_range>$15</price_range>
-  <line><p>From the DC Comedy Circuit &amp; Comedy Festivals Countrywide
-</p></line>
-  <end_date>1337339183
+  <line>
+<![CDATA[
+<p>From the DC Comedy Circuit &amp; Comedy Festivals Countrywide
+</p>]]>
+	</line>
+  <end_date>1337339183</end_date>
   <comedians>
    
      <artist>Justin Daniels</artist>
@@ -865,8 +907,11 @@
   <inventory>300</inventory>
   <start_date>1337119237</start_date>
   <price_range>$0</price_range>
-  <line></line>
-  <end_date>1337169577
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1337169577</end_date>
   <comedians>
    
   </comedians>
@@ -913,9 +958,12 @@
   <inventory>300</inventory>
   <start_date>1336692425</start_date>
   <price_range>$15 - $18</price_range>
-  <line><p>From Talk Shows Countrywide &amp; His Very Own Will Durst Journal
-</p></line>
-  <end_date>1336908425
+  <line>
+<![CDATA[
+<p>From Talk Shows Countrywide &amp; His Very Own Will Durst Journal
+</p>]]>
+	</line>
+  <end_date>1336908425</end_date>
   <comedians>
    
      <artist>Will Durst</artist>
@@ -988,8 +1036,11 @@
   <inventory>300</inventory>
   <start_date>1336514407</start_date>
   <price_range>$0</price_range>
-  <line></line>
-  <end_date>1336564747
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1336564747</end_date>
   <comedians>
    
   </comedians>
@@ -1036,9 +1087,12 @@
   <inventory>300</inventory>
   <start_date>1336098154</start_date>
   <price_range>$35</price_range>
-  <line><p>From HBO, Comedy Central, &#8220;Malcom and Eddie&#8221; and &#8220;Undercover Brother&#8221;
-</p></line>
-  <end_date>1336388374
+  <line>
+<![CDATA[
+<p>From HBO, Comedy Central, &#8220;Malcom and Eddie&#8221; and &#8220;Undercover Brother&#8221;
+</p>]]>
+	</line>
+  <end_date>1336388374</end_date>
   <comedians>
    
      <artist>Eddie Griffin</artist>
@@ -1112,9 +1166,12 @@
   <inventory>300</inventory>
   <start_date>1335997504</start_date>
   <price_range>$15</price_range>
-  <line><p>Ladies Night! With The Incredible Lori Sommer &amp; Hilarious Emma Willmann 
-</p></line>
-  <end_date>1336040704
+  <line>
+<![CDATA[
+<p>Ladies Night! With The Incredible Lori Sommer &amp; Hilarious Emma Willmann 
+</p>]]>
+	</line>
+  <end_date>1336040704</end_date>
   <comedians>
    
      <artist>Lori Sommer</artist>
@@ -1155,8 +1212,11 @@
   <inventory>300</inventory>
   <start_date>1335909657</start_date>
   <price_range>$0</price_range>
-  <line></line>
-  <end_date>1335959997
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1335959997</end_date>
   <comedians>
    
   </comedians>
@@ -1203,9 +1263,12 @@
   <inventory>300</inventory>
   <start_date>1335660906</start_date>
   <price_range>$15</price_range>
-  <line><p>From Your Favorite Dinner Tables &amp; Family Gatherings
-</p></line>
-  <end_date>1335675306
+  <line>
+<![CDATA[
+<p>From Your Favorite Dinner Tables &amp; Family Gatherings
+</p>]]>
+	</line>
+  <end_date>1335675306</end_date>
   <comedians>
    
   </comedians>
@@ -1236,9 +1299,12 @@
   <inventory>300</inventory>
   <start_date>1335588486</start_date>
   <price_range>$15 - $17</price_range>
-  <line><p>A master impressionist and author of &#8220;Almost There, Almost&#8230;The Many Faces of Sylvia Traymore Morrison.&#8221;
-</p></line>
-  <end_date>1335700086
+  <line>
+<![CDATA[
+<p>A master impressionist and author of &#8220;Almost There, Almost&#8230;The Many Faces of Sylvia Traymore Morrison.&#8221;
+</p>]]>
+	</line>
+  <end_date>1335700086</end_date>
   <comedians>
    
      <artist>Sylvia Traymore</artist>
@@ -1306,9 +1372,12 @@
   <inventory>50</inventory>
   <start_date>1335525602</start_date>
   <price_range></price_range>
-  <line><p>100% of Ticket Sales Going To The Cinderella Cures Foundation
-</p></line>
-  <end_date>1335527942
+  <line>
+<![CDATA[
+<p>100% of Ticket Sales Going To The Cinderella Cures Foundation
+</p>]]>
+	</line>
+  <end_date>1335527942</end_date>
   <comedians>
    
      <artist>Tony Woods</artist>
@@ -1352,8 +1421,11 @@
   <inventory>300</inventory>
   <start_date>1335304809</start_date>
   <price_range>$0</price_range>
-  <line></line>
-  <end_date>1335355149
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1335355149</end_date>
   <comedians>
    
   </comedians>
@@ -1400,9 +1472,12 @@
   <inventory>300</inventory>
   <start_date>1335139930</start_date>
   <price_range>$15</price_range>
-  <line><p>The Capital City Showcase &amp; The High Definition Society Presents&#8230;Hosted by WPGC 95.5’s Herkules
-</p></line>
-  <end_date>1335179530
+  <line>
+<![CDATA[
+<p>The Capital City Showcase &amp; The High Definition Society Presents&#8230;Hosted by WPGC 95.5’s Herkules
+</p>]]>
+	</line>
+  <end_date>1335179530</end_date>
   <comedians>
    
   </comedians>
@@ -1444,9 +1519,12 @@
   <inventory>300</inventory>
   <start_date>1334879222</start_date>
   <price_range>$20</price_range>
-  <line><p>From &#8220;Comedy Central,&#8221; &#8220;Then &amp; Now&#8221; on E!, &#8220;Funny or Die,&#8221; and &#8220;Chelsea Lately&#8221; 
-</p></line>
-  <end_date>1335095942
+  <line>
+<![CDATA[
+<p>From &#8220;Comedy Central,&#8221; &#8220;Then &amp; Now&#8221; on E!, &#8220;Funny or Die,&#8221; and &#8220;Chelsea Lately&#8221; 
+</p>]]>
+	</line>
+  <end_date>1335095942</end_date>
   <comedians>
    
      <artist>Erin Foley</artist>
@@ -1527,8 +1605,11 @@
   <inventory>300</inventory>
   <start_date>1334700006</start_date>
   <price_range>$0</price_range>
-  <line></line>
-  <end_date>1334749206
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1334749206</end_date>
   <comedians>
    
   </comedians>
@@ -1575,9 +1656,12 @@
   <inventory>300</inventory>
   <start_date>1334311705</start_date>
   <price_range>$20 - $25</price_range>
-  <line><p>From HBO’s “Def Comedy Jam,” “It&#8217;s Showtime at the Apollo,” and “BET’S Comic View!” 
-</p></line>
-  <end_date>1334491165
+  <line>
+<![CDATA[
+<p>From HBO’s “Def Comedy Jam,” “It&#8217;s Showtime at the Apollo,” and “BET’S Comic View!” 
+</p>]]>
+	</line>
+  <end_date>1334491165</end_date>
   <comedians>
    
      <artist>Tony Roberts</artist>
@@ -1656,8 +1740,11 @@
   <inventory>300</inventory>
   <start_date>1334095234</start_date>
   <price_range>$0</price_range>
-  <line></line>
-  <end_date>1334144434
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1334144434</end_date>
   <comedians>
    
   </comedians>
@@ -1704,9 +1791,12 @@
   <inventory>300</inventory>
   <start_date>1333844649</start_date>
   <price_range></price_range>
-  <line><p>From Your Favorite Dinner Tables &amp; Family Gatherings
-</p></line>
-  <end_date>1333866249
+  <line>
+<![CDATA[
+<p>From Your Favorite Dinner Tables &amp; Family Gatherings
+</p>]]>
+	</line>
+  <end_date>1333866249</end_date>
   <comedians>
    
   </comedians>
@@ -1763,9 +1853,12 @@
   <inventory>300</inventory>
   <start_date>1333667090</start_date>
   <price_range>$17 - $20</price_range>
-  <line><p>From HBO&#8217;s &#8220;Def Comedy Jam&#8221; &amp; &#8220;White Boyz in the Hood,&#8221; and &#8220;Martin Lawrence Presents 1st Amendment Stand Up!&#8221;
-</p></line>
-  <end_date>1333883090
+  <line>
+<![CDATA[
+<p>From HBO&#8217;s &#8220;Def Comedy Jam&#8221; &amp; &#8220;White Boyz in the Hood,&#8221; and &#8220;Martin Lawrence Presents 1st Amendment Stand Up!&#8221;
+</p>]]>
+	</line>
+  <end_date>1333883090</end_date>
   <comedians>
    
      <artist>Ray Lipowski</artist>
@@ -1840,9 +1933,12 @@
   <inventory>300</inventory>
   <start_date>1333598846</start_date>
   <price_range>$20</price_range>
-  <line><p>From Fringe Festivals everywhere &amp; HBO &amp; Vegan Hippies 
-</p></line>
-  <end_date>1333625246
+  <line>
+<![CDATA[
+<p>From Fringe Festivals everywhere &amp; HBO &amp; Vegan Hippies 
+</p>]]>
+	</line>
+  <end_date>1333625246</end_date>
   <comedians>
    
      <artist>Frank Liotti</artist>
@@ -1881,9 +1977,12 @@
   <inventory>300</inventory>
   <start_date>1333483249</start_date>
   <price_range>$0</price_range>
-  <line><p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area
-</p></line>
-  <end_date>1333539649
+  <line>
+<![CDATA[
+<p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area
+</p>]]>
+	</line>
+  <end_date>1333539649</end_date>
   <comedians>
    
   </comedians>
@@ -1950,9 +2049,12 @@
   <inventory>300</inventory>
   <start_date>1333047298</start_date>
   <price_range></price_range>
-  <line><p>International comedy star from Comedy Central and NBC 
-</p></line>
-  <end_date>1333281598
+  <line>
+<![CDATA[
+<p>International comedy star from Comedy Central and NBC 
+</p>]]>
+	</line>
+  <end_date>1333281598</end_date>
   <comedians>
    
      <artist>Tom Rhodes</artist>
@@ -2025,9 +2127,12 @@
   <inventory>300</inventory>
   <start_date>1332970252</start_date>
   <price_range>$5</price_range>
-  <line><p>From your favorite local comedy circuit and DC message boards
-</p></line>
-  <end_date>1333019092
+  <line>
+<![CDATA[
+<p>From your favorite local comedy circuit and DC message boards
+</p>]]>
+	</line>
+  <end_date>1333019092</end_date>
   <comedians>
    
      <artist>Tim Miller</artist>
@@ -2065,9 +2170,12 @@
   <inventory>300</inventory>
   <start_date>1332453518</start_date>
   <price_range>$20 - $25</price_range>
-  <line><p>From &#8220;Comedy Central Presents Tony Woods,&#8221; P Diddy&#8217;s &#8220;Bad Boys of Comedy,&#8221; and The Comedy Central World Comedy Tour!
-</p></line>
-  <end_date>1332676778
+  <line>
+<![CDATA[
+<p>From &#8220;Comedy Central Presents Tony Woods,&#8221; P Diddy&#8217;s &#8220;Bad Boys of Comedy,&#8221; and The Comedy Central World Comedy Tour!
+</p>]]>
+	</line>
+  <end_date>1332676778</end_date>
   <comedians>
    
      <artist>Tony Woods</artist>
@@ -2140,9 +2248,12 @@
   <inventory>300</inventory>
   <start_date>1332401419</start_date>
   <price_range></price_range>
-  <line><p>With headliner Nikki Carr, Soul sensation Kyonte, and featuring Black Alley!
-</p></line>
-  <end_date>1332417559
+  <line>
+<![CDATA[
+<p>With headliner Nikki Carr, Soul sensation Kyonte, and featuring Black Alley!
+</p>]]>
+	</line>
+  <end_date>1332417559</end_date>
   <comedians>
    
      <artist>Nikki Carr</artist>
@@ -2179,9 +2290,12 @@
   <inventory>300</inventory>
   <start_date>1332299322</start_date>
   <price_range></price_range>
-  <line><p>With Dan Naturman, Wali Collins and Shaun Eli
-</p></line>
-  <end_date>1332331122
+  <line>
+<![CDATA[
+<p>With Dan Naturman, Wali Collins and Shaun Eli
+</p>]]>
+	</line>
+  <end_date>1332331122</end_date>
   <comedians>
    
      <artist>Dan Naturman</artist>
@@ -2222,9 +2336,12 @@
   <inventory>300</inventory>
   <start_date>1332157860</start_date>
   <price_range></price_range>
-  <line><p>A MUST SEE SHOW. ONE OF NEW YORK CITIES BEST COMICS HERE FOR A ONE NIGHT ENGAGEMENT!
-</p></line>
-  <end_date>1332157860
+  <line>
+<![CDATA[
+<p>A MUST SEE SHOW. ONE OF NEW YORK CITIES BEST COMICS HERE FOR A ONE NIGHT ENGAGEMENT!
+</p>]]>
+	</line>
+  <end_date>1332157860</end_date>
   <comedians>
    
      <artist>Brad Trackman</artist>
@@ -2261,9 +2378,12 @@
   <inventory>300</inventory>
   <start_date>1331855748</start_date>
   <price_range>$17 - $20</price_range>
-  <line><p>From &#8220;The Tonight Show with Jay Leno&#8221; and Montreal&#8217;s &#8220;Just For Laughs Festival!&#8221;
-</p></line>
-  <end_date>1332071928
+  <line>
+<![CDATA[
+<p>From &#8220;The Tonight Show with Jay Leno&#8221; and Montreal&#8217;s &#8220;Just For Laughs Festival!&#8221;
+</p>]]>
+	</line>
+  <end_date>1332071928</end_date>
   <comedians>
    
      <artist>Barry Rothbart</artist>
@@ -2328,9 +2448,12 @@
   <inventory>300</inventory>
   <start_date>1331759560</start_date>
   <price_range></price_range>
-  <line><p>From your favorite local comedy circuit and DC message boards
-</p></line>
-  <end_date>1331809420
+  <line>
+<![CDATA[
+<p>From your favorite local comedy circuit and DC message boards
+</p>]]>
+	</line>
+  <end_date>1331809420</end_date>
   <comedians>
    
   </comedians>
@@ -2385,9 +2508,12 @@
   <inventory>300</inventory>
   <start_date>1331665251</start_date>
   <price_range></price_range>
-  <line><p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
-</p></line>
-  <end_date>1331715651
+  <line>
+<![CDATA[
+<p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
+</p>]]>
+	</line>
+  <end_date>1331715651</end_date>
   <comedians>
    
   </comedians>
@@ -2454,9 +2580,12 @@
   <inventory>300</inventory>
   <start_date>1331587065</start_date>
   <price_range></price_range>
-  <line><p>From your favorite local comedy circuit and DC message boards
-</p></line>
-  <end_date>1329998685
+  <line>
+<![CDATA[
+<p>From your favorite local comedy circuit and DC message boards
+</p>]]>
+	</line>
+  <end_date>1329998685</end_date>
   <comedians>
    
      <artist>Todd Rexx</artist>
@@ -2493,9 +2622,12 @@
   <inventory>320</inventory>
   <start_date>1331542494</start_date>
   <price_range></price_range>
-  <line><p>One man show with Dan Piraro&#8230;.comic, musician and cartoonist
-</p></line>
-  <end_date>1331553594
+  <line>
+<![CDATA[
+<p>One man show with Dan Piraro&#8230;.comic, musician and cartoonist
+</p>]]>
+	</line>
+  <end_date>1331553594</end_date>
   <comedians>
    
      <artist>Dan Piraro</artist>
@@ -2534,9 +2666,12 @@
   <inventory>300</inventory>
   <start_date>1331350597</start_date>
   <price_range></price_range>
-  <line><p>From HBO&#8217;s &#8220;Def Comedy Jam&#8221;, BET&#8217;s &#8220;Comic View&#8221; and &#8220;Showtime at the Apollo&#8221;
-</p></line>
-  <end_date>1331467177
+  <line>
+<![CDATA[
+<p>From HBO&#8217;s &#8220;Def Comedy Jam&#8221;, BET&#8217;s &#8220;Comic View&#8221; and &#8220;Showtime at the Apollo&#8221;
+</p>]]>
+	</line>
+  <end_date>1331467177</end_date>
   <comedians>
    
      <artist>Michael Brooks</artist>
@@ -2592,9 +2727,12 @@
   <inventory>300</inventory>
   <start_date>1331293132</start_date>
   <price_range></price_range>
-  <line><p>From TBS Very Funny Presents &amp; Rooftop Comedy
-</p></line>
-  <end_date>1331296732
+  <line>
+<![CDATA[
+<p>From TBS Very Funny Presents &amp; Rooftop Comedy
+</p>]]>
+	</line>
+  <end_date>1331296732</end_date>
   <comedians>
    
   </comedians>
@@ -2625,9 +2763,12 @@
   <inventory>300</inventory>
   <start_date>1331166556</start_date>
   <price_range></price_range>
-  <line><p>Monthly gay and gay-friendly comedy show!
-</p></line>
-  <end_date>1331211556
+  <line>
+<![CDATA[
+<p>Monthly gay and gay-friendly comedy show!
+</p>]]>
+	</line>
+  <end_date>1331211556</end_date>
   <comedians>
    
      <artist>Jason Dudey</artist>
@@ -2670,9 +2811,12 @@
   <inventory>300</inventory>
   <start_date>1331064034</start_date>
   <price_range></price_range>
-  <line><p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
-</p></line>
-  <end_date>1331118034
+  <line>
+<![CDATA[
+<p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
+</p>]]>
+	</line>
+  <end_date>1331118034</end_date>
   <comedians>
    
   </comedians>
@@ -2739,9 +2883,12 @@
   <inventory>150</inventory>
   <start_date>1330940690</start_date>
   <price_range></price_range>
-  <line><p>Partial proceeds to be donated to Queen Aishah&#8217;s The MARRK Foundation 
-</p></line>
-  <end_date>1330945190
+  <line>
+<![CDATA[
+<p>Partial proceeds to be donated to Queen Aishah&#8217;s The MARRK Foundation 
+</p>]]>
+	</line>
+  <end_date>1330945190</end_date>
   <comedians>
    
      <artist>Queen Aishah</artist>
@@ -2780,9 +2927,12 @@
   <inventory>300</inventory>
   <start_date>1330618167</start_date>
   <price_range></price_range>
-  <line><p>From &#8220;Chelsea Lately&#8221;, NBC&#8217;s &#8220;Last Comic Standing&#8221;, &#8220;The Soup&#8221; and Comedy Central
-</p></line>
-  <end_date>1330779567
+  <line>
+<![CDATA[
+<p>From &#8220;Chelsea Lately&#8221;, NBC&#8217;s &#8220;Last Comic Standing&#8221;, &#8220;The Soup&#8221; and Comedy Central
+</p>]]>
+	</line>
+  <end_date>1330779567</end_date>
   <comedians>
    
      <artist>Iliza Shlesinger</artist>
@@ -2848,9 +2998,12 @@
   <inventory>300</inventory>
   <start_date>1330608171</start_date>
   <price_range></price_range>
-  <line><p>From &#8220;The Tonight Show&#8221;, &#8220;The Larry Sanders Show&#8221;, &#8220;Shakes the Clown&#8221; and The Police Academy Series
-</p></line>
-  <end_date>1330865991
+  <line>
+<![CDATA[
+<p>From &#8220;The Tonight Show&#8221;, &#8220;The Larry Sanders Show&#8221;, &#8220;Shakes the Clown&#8221; and The Police Academy Series
+</p>]]>
+	</line>
+  <end_date>1330865991</end_date>
   <comedians>
    
      <artist>Bobcat Goldthwait</artist>
@@ -2920,9 +3073,12 @@
   <inventory>300</inventory>
   <start_date>1330459419</start_date>
   <price_range></price_range>
-  <line><p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
-</p></line>
-  <end_date>1330513179
+  <line>
+<![CDATA[
+<p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
+</p>]]>
+	</line>
+  <end_date>1330513179</end_date>
   <comedians>
    
   </comedians>
@@ -3013,9 +3169,12 @@
   <inventory>300</inventory>
   <start_date>1330146511</start_date>
   <price_range>$20 - $22</price_range>
-  <line><p>From &#8220;The Late Show with David Letterman&#8221; and &#8220;The Tonight Show&#8221;
-</p></line>
-  <end_date>1330261171
+  <line>
+<![CDATA[
+<p>From &#8220;The Late Show with David Letterman&#8221; and &#8220;The Tonight Show&#8221;
+</p>]]>
+	</line>
+  <end_date>1330261171</end_date>
   <comedians>
    
      <artist>Dennis Regan</artist>
@@ -3071,8 +3230,11 @@
   <inventory>300</inventory>
   <start_date>1330050275</start_date>
   <price_range></price_range>
-  <line></line>
-  <end_date>1330088375
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1330088375</end_date>
   <comedians>
    
   </comedians>
@@ -3113,9 +3275,12 @@
   <inventory>300</inventory>
   <start_date>1329959077</start_date>
   <price_range></price_range>
-  <line><p>From your favorite local comedy circuit and DC message boards
-</p></line>
-  <end_date>1329998677
+  <line>
+<![CDATA[
+<p>From your favorite local comedy circuit and DC message boards
+</p>]]>
+	</line>
+  <end_date>1329998677</end_date>
   <comedians>
    
      <artist>Rob Maher</artist>
@@ -3152,9 +3317,12 @@
   <inventory>300</inventory>
   <start_date>1329936449</start_date>
   <price_range></price_range>
-  <line><p>Comic Genius from &#8220;The Chappelle Show&#8221;, &#8220;Bamboozled&#8221; and &#8220;Hollywood Shuffle&#8221; 
-</p></line>
-  <end_date>1329998369
+  <line>
+<![CDATA[
+<p>Comic Genius from &#8220;The Chappelle Show&#8221;, &#8220;Bamboozled&#8221; and &#8220;Hollywood Shuffle&#8221; 
+</p>]]>
+	</line>
+  <end_date>1329998369</end_date>
   <comedians>
    
      <artist>Paul Mooney</artist>
@@ -3229,9 +3397,12 @@
   <inventory>300</inventory>
   <start_date>1329865212</start_date>
   <price_range></price_range>
-  <line><p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
-</p></line>
-  <end_date>1329911952
+  <line>
+<![CDATA[
+<p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
+</p>]]>
+	</line>
+  <end_date>1329911952</end_date>
   <comedians>
    
   </comedians>
@@ -3322,9 +3493,12 @@
   <inventory>150</inventory>
   <start_date>1329789073</start_date>
   <price_range></price_range>
-  <line><p>Music, Poetry, Sketch and Stand Up Comedy all in one show
-</p></line>
-  <end_date>1329825613
+  <line>
+<![CDATA[
+<p>Music, Poetry, Sketch and Stand Up Comedy all in one show
+</p>]]>
+	</line>
+  <end_date>1329825613</end_date>
   <comedians>
    
      <artist>Charles Walden</artist>
@@ -3377,9 +3551,12 @@
   <inventory>300</inventory>
   <start_date>1329706680</start_date>
   <price_range></price_range>
-  <line><p>Social Activist and Comic Genius
-</p></line>
-  <end_date>1329739140
+  <line>
+<![CDATA[
+<p>Social Activist and Comic Genius
+</p>]]>
+	</line>
+  <end_date>1329739140</end_date>
   <comedians>
    
      <artist>Dick Gregory</artist>
@@ -3414,9 +3591,12 @@
   <inventory>300</inventory>
   <start_date>1329426844</start_date>
   <price_range>$20 - $25</price_range>
-  <line><p>From &#8220;The Tonight Show with Jay Leno&#8221;, &#8220;The View&#8221;, HBO and 2 Time Emmy Award Winner!
-</p></line>
-  <end_date>1329656344
+  <line>
+<![CDATA[
+<p>From &#8220;The Tonight Show with Jay Leno&#8221;, &#8220;The View&#8221;, HBO and 2 Time Emmy Award Winner!
+</p>]]>
+	</line>
+  <end_date>1329656344</end_date>
   <comedians>
    
      <artist>Judy Gold</artist>
@@ -3483,9 +3663,12 @@
   <inventory>320</inventory>
   <start_date>1329366785</start_date>
   <price_range></price_range>
-  <line><p>With Chris Barylick, Joe Deeley, James Jones, Evan Valentine and Jake Young
-</p></line>
-  <end_date>1329397145
+  <line>
+<![CDATA[
+<p>With Chris Barylick, Joe Deeley, James Jones, Evan Valentine and Jake Young
+</p>]]>
+	</line>
+  <end_date>1329397145</end_date>
   <comedians>
    
   </comedians>
@@ -3556,9 +3739,12 @@
   <inventory>300</inventory>
   <start_date>1329260424</start_date>
   <price_range></price_range>
-  <line><p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
-</p></line>
-  <end_date>1329310764
+  <line>
+<![CDATA[
+<p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
+</p>]]>
+	</line>
+  <end_date>1329310764</end_date>
   <comedians>
    
   </comedians>
@@ -3627,9 +3813,12 @@
   <inventory>300</inventory>
   <start_date>1329015656</start_date>
   <price_range></price_range>
-  <line><p>Zumba at the club! Party yourself into shape!
-</p></line>
-  <end_date>1329022856
+  <line>
+<![CDATA[
+<p>Zumba at the club! Party yourself into shape!
+</p>]]>
+	</line>
+  <end_date>1329022856</end_date>
   <comedians>
    
   </comedians>
@@ -3658,9 +3847,12 @@
   <inventory>300</inventory>
   <start_date>1328796551</start_date>
   <price_range></price_range>
-  <line><p>From HBO&#8217;s &#8220;Def Comedy Jam&#8221;, BET&#8217;s &#8220;Rap City&#8221; and &#8216;Joe Cleezy&#8217; from WPGC 95.5
-</p></line>
-  <end_date>1329051551
+  <line>
+<![CDATA[
+<p>From HBO&#8217;s &#8220;Def Comedy Jam&#8221;, BET&#8217;s &#8220;Rap City&#8221; and &#8216;Joe Cleezy&#8217; from WPGC 95.5
+</p>]]>
+	</line>
+  <end_date>1329051551</end_date>
   <comedians>
    
      <artist>Joe Clair</artist>
@@ -3723,9 +3915,12 @@
   <inventory>320</inventory>
   <start_date>1328745439</start_date>
   <price_range></price_range>
-  <line><p>A night of comics and comedy hailing from The Big Apple
-</p></line>
-  <end_date>1328792359
+  <line>
+<![CDATA[
+<p>A night of comics and comedy hailing from The Big Apple
+</p>]]>
+	</line>
+  <end_date>1328792359</end_date>
   <comedians>
    
      <artist>Dave Siegel</artist>
@@ -3762,9 +3957,12 @@
   <inventory>300</inventory>
   <start_date>1328674511</start_date>
   <price_range></price_range>
-  <line><p>A Night Of Stand Up Comedy, Film Shorts, Improv, and More!
-</p></line>
-  <end_date>1328705951
+  <line>
+<![CDATA[
+<p>A Night Of Stand Up Comedy, Film Shorts, Improv, and More!
+</p>]]>
+	</line>
+  <end_date>1328705951</end_date>
   <comedians>
    
      <artist>Wayne Manigo</artist>
@@ -3806,9 +4004,12 @@
   <inventory></inventory>
   <start_date>1328486781</start_date>
   <price_range></price_range>
-  <line><p>FREE - Doors open at 4:00 PM &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   (No reservation required)
-</p></line>
-  <end_date>1328533041
+  <line>
+<![CDATA[
+<p>FREE - Doors open at 4:00 PM &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;   (No reservation required)
+</p>]]>
+	</line>
+  <end_date>1328533041</end_date>
   <comedians>
    
   </comedians>
@@ -3832,9 +4033,12 @@
   <inventory>300</inventory>
   <start_date>1328278383</start_date>
   <price_range></price_range>
-  <line><p>DC Shorts Laughs: The Films is an amazing and eclectic combination of DC Shorts and Riot Act comedians
-</p></line>
-  <end_date>1328446743
+  <line>
+<![CDATA[
+<p>DC Shorts Laughs: The Films is an amazing and eclectic combination of DC Shorts and Riot Act comedians
+</p>]]>
+	</line>
+  <end_date>1328446743</end_date>
   <comedians>
    
      <artist>Abe Barth</artist>
@@ -4101,8 +4305,11 @@
   <inventory>300</inventory>
   <start_date>1328261418</start_date>
   <price_range></price_range>
-  <line></line>
-  <end_date>1328273958
+  <line>
+<![CDATA[
+]]>
+	</line>
+  <end_date>1328273958</end_date>
   <comedians>
    
      <artist>Will Hessler</artist>
@@ -4145,9 +4352,12 @@
   <inventory>320</inventory>
   <start_date>1328183444</start_date>
   <price_range></price_range>
-  <line><p>With The Queen of Sass and Crass: Wendy Ho&#8230;.also with Chris Doucette and Zach Toczynski!
-</p></line>
-  <end_date>1328187584
+  <line>
+<![CDATA[
+<p>With The Queen of Sass and Crass: Wendy Ho&#8230;.also with Chris Doucette and Zach Toczynski!
+</p>]]>
+	</line>
+  <end_date>1328187584</end_date>
   <comedians>
    
      <artist>Wendy Ho</artist>
@@ -4184,9 +4394,12 @@
   <inventory>300</inventory>
   <start_date>1328050699</start_date>
   <price_range></price_range>
-  <line><p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
-</p></line>
-  <end_date>1328093959
+  <line>
+<![CDATA[
+<p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
+</p>]]>
+	</line>
+  <end_date>1328093959</end_date>
   <comedians>
    
   </comedians>
@@ -4275,9 +4488,12 @@
   <inventory>300</inventory>
   <start_date>1327903232</start_date>
   <price_range></price_range>
-  <line><p>Basile&#8217;s one man show about &#8220;Growing Up Greek&#8221; - Hilarious.&nbsp; 
-</p></line>
-  <end_date>1327928372
+  <line>
+<![CDATA[
+<p>Basile&#8217;s one man show about &#8220;Growing Up Greek&#8221; - Hilarious.&nbsp; 
+</p>]]>
+	</line>
+  <end_date>1327928372</end_date>
   <comedians>
    
      <artist>Basile</artist>
@@ -4317,9 +4533,12 @@
   <inventory>300</inventory>
   <start_date>1327845850</start_date>
   <price_range></price_range>
-  <line><p>From your favorite local comedy class AND your kitchen tables&#8230;
-</p></line>
-  <end_date>1327928350
+  <line>
+<![CDATA[
+<p>From your favorite local comedy class AND your kitchen tables&#8230;
+</p>]]>
+	</line>
+  <end_date>1327928350</end_date>
   <comedians>
    
   </comedians>
@@ -4370,9 +4589,12 @@
   <inventory>300</inventory>
   <start_date>1327667529</start_date>
   <price_range></price_range>
-  <line><p>HBO, Showtime, Comedy Central and The Jay Leno Show
-</p></line>
-  <end_date>1327841889
+  <line>
+<![CDATA[
+<p>HBO, Showtime, Comedy Central and The Jay Leno Show
+</p>]]>
+	</line>
+  <end_date>1327841889</end_date>
   <comedians>
    
      <artist>Basile</artist>
@@ -4437,9 +4659,12 @@
   <inventory>150</inventory>
   <start_date>1327577626</start_date>
   <price_range></price_range>
-  <line><p>4 Comedians, An Improv Troupe, Acoustic Jam, a rock band and a hip hop performance!
-</p></line>
-  <end_date>1327582786
+  <line>
+<![CDATA[
+<p>4 Comedians, An Improv Troupe, Acoustic Jam, a rock band and a hip hop performance!
+</p>]]>
+	</line>
+  <end_date>1327582786</end_date>
   <comedians>
    
   </comedians>
@@ -4480,9 +4705,12 @@
   <inventory>300</inventory>
   <start_date>1327318394</start_date>
   <price_range></price_range>
-  <line><p>Classic Harold Night with Third Beat, The Improv Imps, King Bee and Bloodlust
-</p></line>
-  <end_date>1327323554
+  <line>
+<![CDATA[
+<p>Classic Harold Night with Third Beat, The Improv Imps, King Bee and Bloodlust
+</p>]]>
+	</line>
+  <end_date>1327323554</end_date>
   <comedians>
    
   </comedians>
@@ -4527,9 +4755,12 @@
   <inventory>300</inventory>
   <start_date>1327009595</start_date>
   <price_range></price_range>
-  <line><p>&#8220;Last Comic Standing&#8221; Winner and from Comedy Central
-</p></line>
-  <end_date>1327182395
+  <line>
+<![CDATA[
+<p>&#8220;Last Comic Standing&#8221; Winner and from Comedy Central
+</p>]]>
+	</line>
+  <end_date>1327182395</end_date>
   <comedians>
    
      <artist>Josh Blue</artist>
@@ -4590,9 +4821,12 @@
   <inventory>150</inventory>
   <start_date>1326937511</start_date>
   <price_range></price_range>
-  <line><p>Music, Poetry, Sketch and Stand Up Comedy all in one show
-</p></line>
-  <end_date>1326977951
+  <line>
+<![CDATA[
+<p>Music, Poetry, Sketch and Stand Up Comedy all in one show
+</p>]]>
+	</line>
+  <end_date>1326977951</end_date>
   <comedians>
    
      <artist>Lamont King</artist>
@@ -4645,9 +4879,12 @@
   <inventory>150</inventory>
   <start_date>1326728430</start_date>
   <price_range></price_range>
-  <line><p>From Def Comedy Jam, Comic View and Showtime
-</p></line>
-  <end_date>1326805110
+  <line>
+<![CDATA[
+<p>From Def Comedy Jam, Comic View and Showtime
+</p>]]>
+	</line>
+  <end_date>1326805110</end_date>
   <comedians>
    
      <artist>Todd Rexx</artist>
@@ -4688,9 +4925,12 @@
   <inventory>300</inventory>
   <start_date>1326684104</start_date>
   <price_range></price_range>
-  <line><p>With Ms. Darkchild, Tirese Top Fliight Rhone, Nate the Landlord, Craig McLaren and Tommy Too Smoov
-</p></line>
-  <end_date>1326633764
+  <line>
+<![CDATA[
+<p>With Ms. Darkchild, Tirese Top Fliight Rhone, Nate the Landlord, Craig McLaren and Tommy Too Smoov
+</p>]]>
+	</line>
+  <end_date>1326633764</end_date>
   <comedians>
    
   </comedians>
@@ -4766,9 +5006,12 @@
   <inventory>300</inventory>
   <start_date>1326424399</start_date>
   <price_range></price_range>
-  <line><p>Voted Florida&#8217;s Funniest Comedian 2011
-</p></line>
-  <end_date>1326632359
+  <line>
+<![CDATA[
+<p>Voted Florida&#8217;s Funniest Comedian 2011
+</p>]]>
+	</line>
+  <end_date>1326632359</end_date>
   <comedians>
    
      <artist>Erik Myers</artist>
@@ -4833,9 +5076,12 @@
   <inventory>300</inventory>
   <start_date>1326337956</start_date>
   <price_range></price_range>
-  <line><p>Comedy show featuring all comics from the great state of Maryland
-</p></line>
-  <end_date>1326373176
+  <line>
+<![CDATA[
+<p>Comedy show featuring all comics from the great state of Maryland
+</p>]]>
+	</line>
+  <end_date>1326373176</end_date>
   <comedians>
    
      <artist>Todd Rexx</artist>
@@ -4868,9 +5114,12 @@
   <inventory>300</inventory>
   <start_date>1326336398</start_date>
   <price_range></price_range>
-  <line><p>From &#8220;Hollywood Shuffle&#8221;, &#8220;Martin&#8221;, HBO and &#8220;The Tom Joyner Show&#8221;
-</p></line>
-  <end_date>1326373178
+  <line>
+<![CDATA[
+<p>From &#8220;Hollywood Shuffle&#8221;, &#8220;Martin&#8221;, HBO and &#8220;The Tom Joyner Show&#8221;
+</p>]]>
+	</line>
+  <end_date>1326373178</end_date>
   <comedians>
    
      <artist>Michael Colyar</artist>
@@ -4929,9 +5178,12 @@
   <inventory>300</inventory>
   <start_date>1326283150</start_date>
   <price_range></price_range>
-  <line><p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
-</p></line>
-  <end_date>1326283150
+  <line>
+<![CDATA[
+<p>Every Tuesday amateur, local and national headliners gather for the best showcase of comedy talent in the area.
+</p>]]>
+	</line>
+  <end_date>1326283150</end_date>
   <comedians>
    
   </comedians>
@@ -5004,9 +5256,12 @@
   <inventory>300</inventory>
   <start_date>1325825643</start_date>
   <price_range></price_range>
-  <line><p>From &#8220;Comedy Central Presents&#8221;, Conan O&#8217;Brien and &#8220;Def Comedy Jam&#8221; 
-</p></line>
-  <end_date>1326023883
+  <line>
+<![CDATA[
+<p>From &#8220;Comedy Central Presents&#8221;, Conan O&#8217;Brien and &#8220;Def Comedy Jam&#8221; 
+</p>]]>
+	</line>
+  <end_date>1326023883</end_date>
   <comedians>
    
      <artist>Tony Woods</artist>
@@ -5087,9 +5342,12 @@
   <inventory>300</inventory>
   <start_date>1325738978</start_date>
   <price_range></price_range>
-  <line><p>Hilarious monthly show with all gay and gay friendly comics!
-</p></line>
-  <end_date>1325768378
+  <line>
+<![CDATA[
+<p>Hilarious monthly show with all gay and gay friendly comics!
+</p>]]>
+	</line>
+  <end_date>1325768378</end_date>
   <comedians>
    
      <artist>Jim David</artist>
@@ -5136,9 +5394,12 @@
   <inventory>300</inventory>
   <start_date>1325216016</start_date>
   <price_range></price_range>
-  <line><p>Winner from &#8220;America&#8217;s Funniest People&#8221; and HBO&#8217;s &#8220;Lucky 21 Contest&#8221;
-</p></line>
-  <end_date>1325404776
+  <line>
+<![CDATA[
+<p>Winner from &#8220;America&#8217;s Funniest People&#8221; and HBO&#8217;s &#8220;Lucky 21 Contest&#8221;
+</p>]]>
+	</line>
+  <end_date>1325404776</end_date>
   <comedians>
    
      <artist>Big Al Goodwin</artist>
@@ -5232,9 +5493,12 @@
   <inventory>300</inventory>
   <start_date>1325106030</start_date>
   <price_range></price_range>
-  <line><p>Admission is free with a donated coat or sweater!
-</p></line>
-  <end_date>1325163570
+  <line>
+<![CDATA[
+<p>Admission is free with a donated coat or sweater!
+</p>]]>
+	</line>
+  <end_date>1325163570</end_date>
   <comedians>
    
   </comedians>
@@ -5263,9 +5527,12 @@
   <inventory>300</inventory>
   <start_date>1324481490</start_date>
   <price_range></price_range>
-  <line><p>Winner of HBO&#8217;s U.S. Comedy and Arts Festival
-</p></line>
-  <end_date>1324738830
+  <line>
+<![CDATA[
+<p>Winner of HBO&#8217;s U.S. Comedy and Arts Festival
+</p>]]>
+	</line>
+  <end_date>1324738830</end_date>
   <comedians>
    
      <artist>Andy Hendrickson</artist>
@@ -5317,9 +5584,12 @@
   <inventory>300</inventory>
   <start_date>1324052370</start_date>
   <price_range></price_range>
-  <line><p>From HBO, Comedy Central, &#8220;Malcom and Eddie&#8221; and &#8220;Undercover Brother&#8221;
-</p></line>
-  <end_date>1324213110
+  <line>
+<![CDATA[
+<p>From HBO, Comedy Central, &#8220;Malcom and Eddie&#8221; and &#8220;Undercover Brother&#8221;
+</p>]]>
+	</line>
+  <end_date>1324213110</end_date>
   <comedians>
    
      <artist>Eddie Griffin</artist>
@@ -5379,9 +5649,12 @@
   <inventory>300</inventory>
   <start_date>1323951956</start_date>
   <price_range></price_range>
-  <line><p> All Star comedy show and toys for tots collection
-</p></line>
-  <end_date>1323953996
+  <line>
+<![CDATA[
+<p> All Star comedy show and toys for tots collection
+</p>]]>
+	</line>
+  <end_date>1323953996</end_date>
   <comedians>
    
   </comedians>
@@ -5422,9 +5695,12 @@
   <inventory>300</inventory>
   <start_date>1323822075</start_date>
   <price_range></price_range>
-  <line><p>Come see local up-and-coming stars try out for the #1 comedy festival in the world.
-</p></line>
-  <end_date>1323863955
+  <line>
+<![CDATA[
+<p>Come see local up-and-coming stars try out for the #1 comedy festival in the world.
+</p>]]>
+	</line>
+  <end_date>1323863955</end_date>
   <comedians>
    
   </comedians>
@@ -5497,9 +5773,12 @@
   <inventory>300</inventory>
   <start_date>1323665695</start_date>
   <price_range></price_range>
-  <line><p>With Jesse Sommer, Randy Seriguchi, and Josiah Young
-</p></line>
-  <end_date>1323694735
+  <line>
+<![CDATA[
+<p>With Jesse Sommer, Randy Seriguchi, and Josiah Young
+</p>]]>
+	</line>
+  <end_date>1323694735</end_date>
   <comedians>
    
   </comedians>
@@ -5571,9 +5850,12 @@
   <inventory>300</inventory>
   <start_date>1323349586</start_date>
   <price_range></price_range>
-  <line><p>From &#8220;The Late Show with David Letterman&#8221;, Comedy Central and ESPN
-</p></line>
-  <end_date>1323608366
+  <line>
+<![CDATA[
+<p>From &#8220;The Late Show with David Letterman&#8221;, Comedy Central and ESPN
+</p>]]>
+	</line>
+  <end_date>1323608366</end_date>
   <comedians>
    
      <artist>Jeff Caldwell</artist>
@@ -5642,9 +5924,12 @@
   <inventory>300</inventory>
   <start_date>1323293763</start_date>
   <price_range></price_range>
-  <line><p>Hilarious monthly show with all gay and gay friendly comics!
-</p></line>
-  <end_date>1323345543
+  <line>
+<![CDATA[
+<p>Hilarious monthly show with all gay and gay friendly comics!
+</p>]]>
+	</line>
+  <end_date>1323345543</end_date>
   <comedians>
    
      <artist>Adam Lehman</artist>
@@ -5689,9 +5974,12 @@
   <inventory>50</inventory>
   <start_date>1322860718</start_date>
   <price_range></price_range>
-  <line><p>7:00pm
-</p></line>
-  <end_date>1322913578
+  <line>
+<![CDATA[
+<p>7:00pm
+</p>]]>
+	</line>
+  <end_date>1322913578</end_date>
   <comedians>
    
   </comedians>
@@ -5749,9 +6037,12 @@
   <inventory>50</inventory>
   <start_date>1322860362</start_date>
   <price_range></price_range>
-  <line><p>7:00pm
-</p></line>
-  <end_date>1322913582
+  <line>
+<![CDATA[
+<p>7:00pm
+</p>]]>
+	</line>
+  <end_date>1322913582</end_date>
   <comedians>
    
   </comedians>
@@ -5809,9 +6100,12 @@
   <inventory>300</inventory>
   <start_date>1322754090</start_date>
   <price_range></price_range>
-  <line><p>Finalist on NBC&#8217;s &#8220;Last Comic Standing&#8221;, Comedy Central and &#8220;The Tonight Show with Jay Leno&#8221;
-</p></line>
-  <end_date>1323003570
+  <line>
+<![CDATA[
+<p>Finalist on NBC&#8217;s &#8220;Last Comic Standing&#8221;, Comedy Central and &#8220;The Tonight Show with Jay Leno&#8221;
+</p>]]>
+	</line>
+  <end_date>1323003570</end_date>
   <comedians>
    
      <artist>Tammy Pescatelli</artist>
@@ -5876,9 +6170,12 @@
   <inventory>50</inventory>
   <start_date>1322341390</start_date>
   <price_range></price_range>
-  <line><p>11:00am
-</p></line>
-  <end_date>1322391550
+  <line>
+<![CDATA[
+<p>11:00am
+</p>]]>
+	</line>
+  <end_date>1322391550</end_date>
   <comedians>
    
   </comedians>
@@ -5936,9 +6233,12 @@
   <inventory>300</inventory>
   <start_date>1322257796</start_date>
   <price_range></price_range>
-  <line><p>From Comedy Central, NBC&#8217;s “America’s Got Talent&#8221; and the &#8220;The Steve Harvey Show&#8221;
-</p></line>
-  <end_date>1322398736
+  <line>
+<![CDATA[
+<p>From Comedy Central, NBC&#8217;s “America’s Got Talent&#8221; and the &#8220;The Steve Harvey Show&#8221;
+</p>]]>
+	</line>
+  <end_date>1322398736</end_date>
   <comedians>
    
      <artist>Alycia Cooper</artist>

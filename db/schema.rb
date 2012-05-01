@@ -11,7 +11,25 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120419124734) do
+ActiveRecord::Schema.define(:version => 20120427081409) do
+
+  create_table "acts", :force => true do |t|
+    t.datetime "start_date"
+    t.datetime "end_date"
+    t.string   "name"
+    t.string   "photo"
+    t.string   "inventory"
+    t.string   "price_range"
+    t.string   "line"
+    t.text     "description"
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
+  end
+
+  create_table "acts_artists", :force => true do |t|
+    t.integer "artist_id"
+    t.integer "act_id"
+  end
 
   create_table "artists", :force => true do |t|
     t.string   "name"
@@ -23,6 +41,16 @@ ActiveRecord::Schema.define(:version => 20120419124734) do
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
     t.string   "slug"
+  end
+
+  create_table "shows", :force => true do |t|
+    t.string   "name"
+    t.string   "name_alt"
+    t.decimal  "price"
+    t.integer  "inventory"
+    t.integer  "act_id"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
   end
 
 end
