@@ -11,6 +11,8 @@
  *= require_self
  *= require_tree .
  *= require backbone-forms-rails
+ *= require jquery-noty/jquery.noty.css
+ *= require jquery-noty/noty_theme_twitter.css
  
 */
 

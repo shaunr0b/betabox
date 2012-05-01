@@ -2,7 +2,7 @@ class ArtistsController < ApplicationController
   respond_to :json
   
   def index
-    respond_with Artist.all
+    respond_with Artist.order('name').all
   end
   
   def show

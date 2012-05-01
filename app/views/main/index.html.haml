@@ -12,6 +12,6 @@
         .content
   
 
-/-content_for :scripts do
-/:javascript
-/var Artists = new Betabox.Models.Artists(#{@artists.to_json});
+-content_for :scripts do
+  :javascript
+    Betabox.init({ artists: #{@artists.to_json} })

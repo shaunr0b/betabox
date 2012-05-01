@@ -1,0 +1,1 @@
+%a(href="#artists/#{this.model.get('id')}" )=this.model.get('name')

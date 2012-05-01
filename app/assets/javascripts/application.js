@@ -12,6 +12,8 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require jquery-noty/jquery.noty.js
+//
 //= require twitter/bootstrap
 //= require underscore
 //= require backbone
@@ -21,4 +23,5 @@
 //= require_tree .//collections
 //= require_tree .//views
 //= require_tree .//routers
+//= require_tree .//lib
 //= require hamlcoffee
