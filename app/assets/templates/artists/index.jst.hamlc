@@ -1,4 +1,0 @@
-%ul#artists_list
-  - for artist in @artists.models
-    %li
-      %a(href="#artists/#{artist.get('id')}" )=artist.get('name')

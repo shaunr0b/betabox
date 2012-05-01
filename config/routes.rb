@@ -1,9 +1,13 @@
 Betabox::Application.routes.draw do
 
+
+
   root :to => "main#index"
   
   scope "api" do
     resources :artists
+    resources :shows
+    resources :acts
   end
 
   # The priority is based upon order of creation:
