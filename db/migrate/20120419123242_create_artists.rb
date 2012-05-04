@@ -4,10 +4,8 @@ class CreateArtists < ActiveRecord::Migration
       t.string :name
       t.text :tag
       t.string :bio
-      t.string :photo
-      t.string :email
-      t.string :phone
-
+      t.string :website_url
+      
       t.timestamps
     end
   end
