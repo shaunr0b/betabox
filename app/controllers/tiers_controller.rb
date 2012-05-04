@@ -1,0 +1,2 @@
+class TiersController < ApplicationController
+end

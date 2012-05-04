@@ -1,10 +1,18 @@
 class Act < ActiveRecord::Base
-  has_many :shows
   has_and_belongs_to_many  :artists
-  attr_accessible :description, :end_date, :inventory, :line, :name, :photo, :price_range, :start_date
+  has_many :shows
+  belongs_to :venue, :inverse_of => :acts
+  
+  
+  attr_accessible :name, :description, :inventory, :price_range, :line,  :photo
 
   def as_json(options={})
     super(options.merge(:include => [:shows]) )
   end
   
 end
+
+
+
+
+

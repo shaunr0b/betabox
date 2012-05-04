@@ -1,0 +1,2 @@
+class DiscountsController < ApplicationController
+end
