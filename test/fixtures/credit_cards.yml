@@ -1,0 +1,15 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  encrypted_number: MyString
+  type: 
+  exp_month: MyString
+  exp_year: MyString
+  customer_id: 1
+
+two:
+  encrypted_number: MyString
+  type: 
+  exp_month: MyString
+  exp_year: MyString
+  customer_id: 1

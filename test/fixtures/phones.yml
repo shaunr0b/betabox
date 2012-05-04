@@ -1,0 +1,17 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  number: MyString
+  country_code: MyString
+  locality_code: MyString
+  local_number: MyString
+  phonable_id: 1
+  phonable_type: MyString
+
+two:
+  number: MyString
+  country_code: MyString
+  locality_code: MyString
+  local_number: MyString
+  phonable_id: 1
+  phonable_type: MyString
