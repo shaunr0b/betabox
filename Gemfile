@@ -24,11 +24,12 @@ group :test, :development do
   gem 'rspec-rails', "~> 2.6" 
   gem 'cucumber'
   gem "factory_girl_rails", "~> 3.0"
-  gem 'shoulda'
+  gem 'shoulda-matchers'
   
 end
 gem 'rails-erd'
-
+gem 'forgery'
+#gem 'bootstrapper'
 gem 'xml-simple'
 #gem 'pg'
 gem 'jquery-rails'
@@ -48,3 +49,5 @@ gem 'yajl-ruby'
 
 gem 'attr_encrypted'
 gem 'foreman'
+gem 'awesome_nested_set'
+gem "friendly_id", "~> 4.0.1"
