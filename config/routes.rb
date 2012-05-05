@@ -1,27 +1,17 @@
 Betabox::Application.routes.draw do
 
 
+  #get "scaffold/index"
+  #match ':controller(/:action(/:id))(.:format)'
+  match 'scaffold(/:seg1)(/:seg2)(:/seg3)(:/seg4)' => 'scaffold#index'
+
   root :to => "main#index"
   
   scope "api" do
     resources :users
-    
     resources :companies
-    resources :venues
-    
+    resources :locations
     resources :artists
-    
-    resources :shows
-    resources :acts
-    resources :tickets
-    resources :tiers
-    
-    resources :photos
-    resources :phones
-    resources :addresses
-    
-    resources :contacts
-    
     resources :orders
     resources :line_items
     resources :discounts
@@ -30,6 +20,22 @@ Betabox::Application.routes.draw do
     resources :payments
     resources :payment_methods
     resources :credit_cards
+    
+    resources :contacts    
+    
+    resources :photos
+    resources :phones
+    resources :addresses
+    
+    resources :shows
+    resources :acts
+    resources :tickets
+    resources :tiers
+    
+    resources :products
+    resources :product_groups
+
+    
   end
 
   # The priority is based upon order of creation:
