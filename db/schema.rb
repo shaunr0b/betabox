@@ -11,7 +11,16 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120503161816) do
+ActiveRecord::Schema.define(:version => 20120504204700) do
+
+  create_table "accounts", :force => true do |t|
+    t.string   "subdomain"
+    t.string   "name"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
+  end
+
+  add_index "accounts", ["subdomain"], :name => "index_accounts_on_subdomain", :unique => true
 
   create_table "acts", :force => true do |t|
     t.string   "name"
@@ -38,6 +47,7 @@ ActiveRecord::Schema.define(:version => 20120503161816) do
     t.string   "line_2"
     t.string   "city"
     t.string   "state"
+    t.string   "country"
     t.string   "postal_code"
     t.datetime "created_at",       :null => false
     t.datetime "updated_at",       :null => false
@@ -51,13 +61,6 @@ ActiveRecord::Schema.define(:version => 20120503161816) do
     t.datetime "created_at",  :null => false
     t.datetime "updated_at",  :null => false
     t.string   "slug"
-  end
-
-  create_table "companies", :force => true do |t|
-    t.string   "subdomain"
-    t.string   "name"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
   end
 
   create_table "contacts", :force => true do |t|
@@ -107,6 +110,13 @@ ActiveRecord::Schema.define(:version => 20120503161816) do
     t.integer  "order_id"
     t.datetime "created_at",  :null => false
     t.datetime "updated_at",  :null => false
+  end
+
+  create_table "locations", :force => true do |t|
+    t.string   "name"
+    t.integer  "account_id"
+    t.datetime "created_at", :null => false
+    t.datetime "updated_at", :null => false
   end
 
   create_table "orders", :force => true do |t|
@@ -164,12 +174,39 @@ ActiveRecord::Schema.define(:version => 20120503161816) do
     t.datetime "updated_at",     :null => false
   end
 
+  create_table "product_groups", :force => true do |t|
+    t.string   "name"
+    t.string   "slug"
+    t.text     "description"
+    t.integer  "parent_id"
+    t.integer  "lft"
+    t.integer  "rgt"
+    t.integer  "depth"
+    t.datetime "created_at",  :null => false
+    t.datetime "updated_at",  :null => false
+  end
+
+  add_index "product_groups", ["slug"], :name => "index_product_groups_on_slug", :unique => true
+
+  create_table "products", :force => true do |t|
+    t.string   "name"
+    t.string   "slug"
+    t.text     "description"
+    t.decimal  "price"
+    t.integer  "product_group_id"
+    t.string   "type"
+    t.datetime "created_at",       :null => false
+    t.datetime "updated_at",       :null => false
+  end
+
+  add_index "products", ["slug"], :name => "index_products_on_slug", :unique => true
+
   create_table "shows", :force => true do |t|
     t.string   "tag"
     t.integer  "inventory"
-    t.integer  "act_id"
     t.datetime "starts_at"
     t.datetime "ends_at"
+    t.integer  "act_id"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
@@ -201,23 +238,23 @@ ActiveRecord::Schema.define(:version => 20120503161816) do
   end
 
   create_table "users", :force => true do |t|
-    t.string   "screen_name"
+    t.string   "type"
+    t.integer  "company_id"
     t.string   "username"
     t.string   "email"
     t.string   "password"
-    t.string   "password_confirm"
+    t.string   "prefix"
+    t.string   "first_name"
+    t.string   "mi"
+    t.string   "last_name"
+    t.string   "suffix"
+    t.string   "screen_name"
+    t.string   "company_name"
     t.string   "language"
     t.datetime "last_login"
     t.string   "last_ip"
-    t.datetime "created_at",       :null => false
-    t.datetime "updated_at",       :null => false
-  end
-
-  create_table "venues", :force => true do |t|
-    t.string   "name"
-    t.integer  "company_id"
-    t.datetime "created_at", :null => false
-    t.datetime "updated_at", :null => false
+    t.datetime "created_at",   :null => false
+    t.datetime "updated_at",   :null => false
   end
 
 end
