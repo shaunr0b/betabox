@@ -1,0 +1,16 @@
+%h1 Product Sub-groups
+-if @group
+  %h2
+    for group
+    =link_to @group.name, @group.slug
+
+%ul
+  -unless @subgroups.nil?
+    -@subgroups.each do |g|
+      %li=link_to "#{g.name} (#{g.children.count}, #{g.products.count})", "#{g.slug}/"
+    
+%h1 Products in this group
+-unless @products.nil?
+  %ul
+    -@products.each do |p|
+      %li=link_to p.name, p.slug
