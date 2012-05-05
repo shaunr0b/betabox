@@ -1,0 +1,3 @@
+class Merch < Product
+  
+end
