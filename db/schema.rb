@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120504204700) do
+ActiveRecord::Schema.define(:version => 20120505125242) do
 
   create_table "accounts", :force => true do |t|
     t.string   "subdomain"
@@ -102,6 +102,23 @@ ActiveRecord::Schema.define(:version => 20120504204700) do
     t.integer "discount_id"
     t.integer "order_id"
   end
+
+  create_table "fields", :force => true do |t|
+    t.integer  "fieldable_id"
+    t.string   "fieldable_type"
+    t.integer  "parent_id"
+    t.string   "slug"
+    t.string   "value_string"
+    t.text     "value_text"
+    t.integer  "value_integer"
+    t.decimal  "value_decimal"
+    t.boolean  "value_boolean"
+    t.datetime "value_datetime"
+    t.datetime "created_at",     :null => false
+    t.datetime "updated_at",     :null => false
+  end
+
+  add_index "fields", ["slug"], :name => "index_fields_on_slug", :unique => true
 
   create_table "line_items", :force => true do |t|
     t.integer  "quantity"
