@@ -3,19 +3,19 @@
 # COMPANY
 FactoryGirl.define do
   
-  factory :company do
+  factory :account do
    name "Jammin Java"
    sequence(:subdomain) {|n| "sub#{n}" }
    
    #subdomain { generate(:subdomain) }
    
-   factory :company_with_venues do
+   factory :account_with_locations do
      ignore do
-       venues_count 2
+       locations_count 2
      end
      
-     after_create do |company, evaluator|
-       FactoryGirl.create_list(:venue, evaluator.venues_count, company: company)
+     after_create do |account, evaluator|
+       FactoryGirl.create_list(:location, evaluator.locations_count, account: account)
      end
    end
    
@@ -24,7 +24,7 @@ end
 
 # VENUE
 FactoryGirl.define do
-  factory :venue do
+  factory :location do
    name "Jammin Java"
    address
   end
