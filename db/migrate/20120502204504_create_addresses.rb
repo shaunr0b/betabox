@@ -9,6 +9,7 @@ class CreateAddresses < ActiveRecord::Migration
       t.string :line_2 # Apartment 420
       t.string :city # New York
       t.string :state # NY
+      t.string :country # NY
       t.string :postal_code # 12345
       
       t.timestamps
