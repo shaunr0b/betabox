@@ -2,21 +2,11 @@ source 'https://rubygems.org'
 
 gem 'rails', '3.2.3'
 
-gem 'sqlite3'
-
-
-# Gems used only for assets and not required
-# in production environments by default.
 group :assets do
   gem 'less-rails',   '~> 2.2.1'
   gem 'coffee-rails', '~> 3.2.1'
-
   gem 'haml_coffee_assets'
   gem 'execjs'
-
-  # See https://github.com/sstephenson/execjs#readme for more supported runtimes
-  # gem 'therubyracer', :platform => :ruby
-
   gem 'uglifier', '>= 1.0.3'
 end
 
@@ -25,29 +15,40 @@ group :test, :development do
   gem 'cucumber'
   gem "factory_girl_rails", "~> 3.0"
   gem 'shoulda-matchers'
+  gem 'rails-erd'
+  gem 'xml-simple' # for processing seed files
+  gem 'foreman'
   
 end
-gem 'rails-erd'
-gem 'forgery'
-#gem 'bootstrapper'
-gem 'xml-simple'
-#gem 'pg'
-gem 'jquery-rails'
-gem 'phony'
 
+# environment
 gem 'thin'
+gem 'sqlite3'
+# gem 'pg'
+
+
+# accessories 
+gem 'phony' # formatting phone number
+
+# views / front end
+gem 'rabl'
+gem 'yajl-ruby'
+gem 'jquery-rails'
 gem 'haml-rails'
 gem 'backbone-on-rails'
-gem 'simple_form'
 gem 'country_select'
+
 gem 'twitter-bootstrap-rails', :git => 'git://github.com/seyhunak/twitter-bootstrap-rails.git'
 gem 'backbone-forms-rails', :git => 'git@github.com:env/backbone-forms-rails.git'
 gem 'jquery-noty-rails', :git => 'git@github.com:env/jquery-noty-rails.git', :require => 'jquery-noty-rails'
 
-gem 'rabl'
-gem 'yajl-ruby'
-
-gem 'attr_encrypted'
-gem 'foreman'
+#models 
+gem 'heritage' # multiple table inheritance
 gem 'awesome_nested_set'
-gem "friendly_id", "~> 4.0.1"
+gem "friendly_id", "~> 4.0.1" # slugs 
+gem 'attr_encrypted'
+
+#seed 
+gem 'forgery' 
+
+
