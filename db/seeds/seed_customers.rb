@@ -1,5 +1,5 @@
 def seed_customers
-  @company = Company.find_by_subdomain('riotact')
+  @account = Account.find_by_subdomain('riotact')
   
   customers_file = File.read('./db/data/customers.xml')
   customers_file.gsub!(/&/, '&amp;') # to make valid XML
@@ -36,7 +36,7 @@ def seed_customers
     
     cust.addresses << a
     cust.phones << p
-    cust.company = @company
+    cust.account = @account
 
     
     cust.save!

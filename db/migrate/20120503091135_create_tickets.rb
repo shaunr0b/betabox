@@ -3,7 +3,7 @@ class CreateTickets < ActiveRecord::Migration
     create_table :tickets do |t|
       t.datetime :scanned_at
       
-      t.references :tier
+      #t.references :tier
 
       t.timestamps
     end

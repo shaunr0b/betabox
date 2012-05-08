@@ -1,9 +1,7 @@
 # encoding: UTF-8
 
 def seed_products_and_groups
-  Product.delete_all
-  ProductGroup.delete_all
-  
+
   shows = pg('Shows')
   
   ##########

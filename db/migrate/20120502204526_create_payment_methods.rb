@@ -4,7 +4,7 @@ class CreatePaymentMethods < ActiveRecord::Migration
       t.string :name
       t.string :is_cc
       t.string :is_cash
-
+      t.string :code
       t.timestamps
     end
   end

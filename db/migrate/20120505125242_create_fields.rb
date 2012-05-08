@@ -4,7 +4,7 @@ class CreateFields < ActiveRecord::Migration
       t.integer :fieldable_id
       t.string :fieldable_type
       
-      t.integer :parent_id
+      t.integer :parent_id, :null => false
       
       t.string :slug # field identifier
       

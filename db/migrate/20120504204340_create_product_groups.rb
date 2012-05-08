@@ -3,7 +3,9 @@ class CreateProductGroups < ActiveRecord::Migration
     create_table :product_groups do |t|
       t.string :name
       t.string :slug
-      t.text :description
+      t.string :short_description
+      t.text :long_description
+      
       t.integer :parent_id
       t.integer :lft
       t.integer :rgt

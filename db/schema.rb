@@ -11,7 +11,7 @@
 #
 # It's strongly recommended to check this file into your version control system.
 
-ActiveRecord::Schema.define(:version => 20120505125242) do
+ActiveRecord::Schema.define(:version => 20120507081825) do
 
   create_table "accounts", :force => true do |t|
     t.string   "subdomain"
@@ -64,7 +64,6 @@ ActiveRecord::Schema.define(:version => 20120505125242) do
   end
 
   create_table "contacts", :force => true do |t|
-    t.integer  "artist_id"
     t.string   "name"
     t.string   "email"
     t.datetime "created_at", :null => false
@@ -106,7 +105,7 @@ ActiveRecord::Schema.define(:version => 20120505125242) do
   create_table "fields", :force => true do |t|
     t.integer  "fieldable_id"
     t.string   "fieldable_type"
-    t.integer  "parent_id"
+    t.integer  "parent_id",      :null => false
     t.string   "slug"
     t.string   "value_string"
     t.text     "value_text"
@@ -153,6 +152,7 @@ ActiveRecord::Schema.define(:version => 20120505125242) do
     t.string   "name"
     t.string   "is_cc"
     t.string   "is_cash"
+    t.string   "code"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
@@ -194,36 +194,38 @@ ActiveRecord::Schema.define(:version => 20120505125242) do
   create_table "product_groups", :force => true do |t|
     t.string   "name"
     t.string   "slug"
-    t.text     "description"
+    t.string   "short_description"
+    t.text     "long_description"
     t.integer  "parent_id"
     t.integer  "lft"
     t.integer  "rgt"
     t.integer  "depth"
-    t.datetime "created_at",  :null => false
-    t.datetime "updated_at",  :null => false
+    t.datetime "created_at",        :null => false
+    t.datetime "updated_at",        :null => false
   end
 
   add_index "product_groups", ["slug"], :name => "index_product_groups_on_slug", :unique => true
 
   create_table "products", :force => true do |t|
     t.string   "name"
-    t.string   "slug"
-    t.text     "description"
-    t.decimal  "price"
+    t.string   "slug",                               :null => false
+    t.integer  "inventory",         :default => 0,   :null => false
+    t.string   "short_description"
+    t.text     "long_description"
+    t.integer  "heir_id"
+    t.string   "heir_type"
+    t.decimal  "price",             :default => 0.0, :null => false
     t.integer  "product_group_id"
     t.string   "type"
-    t.datetime "created_at",       :null => false
-    t.datetime "updated_at",       :null => false
+    t.datetime "created_at",                         :null => false
+    t.datetime "updated_at",                         :null => false
   end
 
   add_index "products", ["slug"], :name => "index_products_on_slug", :unique => true
 
   create_table "shows", :force => true do |t|
-    t.string   "tag"
-    t.integer  "inventory"
     t.datetime "starts_at"
     t.datetime "ends_at"
-    t.integer  "act_id"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
@@ -238,7 +240,6 @@ ActiveRecord::Schema.define(:version => 20120505125242) do
 
   create_table "tickets", :force => true do |t|
     t.datetime "scanned_at"
-    t.integer  "tier_id"
     t.datetime "created_at", :null => false
     t.datetime "updated_at", :null => false
   end
@@ -256,10 +257,10 @@ ActiveRecord::Schema.define(:version => 20120505125242) do
 
   create_table "users", :force => true do |t|
     t.string   "type"
-    t.integer  "company_id"
-    t.string   "username"
-    t.string   "email"
-    t.string   "password"
+    t.integer  "account_id"
+    t.string   "username",                    :null => false
+    t.string   "email",                       :null => false
+    t.string   "password",                    :null => false
     t.string   "prefix"
     t.string   "first_name"
     t.string   "mi"
@@ -270,8 +271,11 @@ ActiveRecord::Schema.define(:version => 20120505125242) do
     t.string   "language"
     t.datetime "last_login"
     t.string   "last_ip"
-    t.datetime "created_at",   :null => false
-    t.datetime "updated_at",   :null => false
+    t.integer  "role_id",      :default => 4
+    t.datetime "created_at",                  :null => false
+    t.datetime "updated_at",                  :null => false
   end
+
+  add_index "users", ["email"], :name => "index_users_on_email", :unique => true
 
 end
