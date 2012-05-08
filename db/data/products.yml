@@ -1,0 +1,54 @@
+# Prices will be auto generated for now
+
+Food:
+  Appetizers:
+    - Wings
+    - Dip
+    - Nachos
+  Entrees:
+    Burgers:
+      - Plain
+      - Blue Cheese Please
+      - The Monterrey
+      - Custom
+    Steak:
+      - Rib Eye
+      - NY Strip
+  Deserts: 
+    - Cheesecake
+    - Ice cream
+Beverage:
+  Soft:
+    - Water    
+    - Coke
+    - Fanta
+    - Sprite
+    - Dasani Water
+  Beer:
+    - Fosters
+    - Yueng Ling
+    - Budwiser
+    - Bud Light
+    - Coors
+  Wine:
+    Glass: 
+      Red: 
+        - Merlot
+        - Cabernet
+        - Pinot Rouge
+        - Zinfandel
+      Rose:
+        - Pink Zin
+      White:
+        - Chardonnay
+        - Savingnon Blanc
+        - Pinot Grigio
+        
+    Bottle:
+      - Merlot
+      - Cabernet
+      - Shiraz
+      - Puilly Fume
+  Liquor: 
+    - Jack Daniels
+    - Captain Morgans
