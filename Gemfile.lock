@@ -1,4 +1,10 @@
 GIT
+  remote: git://github.com/pluginaweek/state_machine.git
+  revision: d634707196d42d0b668135a4cd8a7fde41abc951
+  specs:
+    state_machine (1.1.2)
+
+GIT
   remote: git://github.com/seyhunak/twitter-bootstrap-rails.git
   revision: eb348d89373bd3828848887bc0f7c3a6aed236d9
   specs:
@@ -233,6 +239,7 @@ DEPENDENCIES
   rspec-rails (~> 2.6)
   shoulda-matchers
   sqlite3
+  state_machine!
   thin
   twitter-bootstrap-rails!
   uglifier (>= 1.0.3)

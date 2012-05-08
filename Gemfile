@@ -47,8 +47,11 @@ gem 'heritage' # multiple table inheritance
 gem 'awesome_nested_set'
 gem "friendly_id", "~> 4.0.1" # slugs 
 gem 'attr_encrypted'
+gem 'state_machine', :git => 'git://github.com/pluginaweek/state_machine.git', :require => 'state_machine/core'
+
 
 #seed 
 gem 'forgery' 
+
 
 
