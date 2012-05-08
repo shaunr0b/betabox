@@ -4,7 +4,7 @@ class ProductGroup < ActiveRecord::Base
   friendly_id :name, use: :slugged
   
   acts_as_nested_set
-  attr_accessible :description, :name, :parent_id, :slug
+  attr_accessible :short_description, :long_description, :name, :parent_id, :slug
   
   has_many :fields, :as => :fieldable  
   

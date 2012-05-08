@@ -1,6 +1,8 @@
 class Order < ActiveRecord::Base
   attr_accessible :billing_address_id, :customer_id, :shipping_address_id
   
+  attr_accessor :state
+  
   belongs_to :customer
   has_one :payment
   
@@ -13,6 +15,13 @@ class Order < ActiveRecord::Base
   
   has_one :billing_address, :class_name => "Address", :as => :addressable, :foreign_key => "billing_address_id"
   has_one :shipping_address, :class_name => "Address", :as => :addressable, :foreign_key => "shipping_address_id"
+  
+  
+  # :still_shopping, :processing_payment, :shipping, :complete
+  #state_machine :state, :initial => :still_shopping do
+     
+  #end
+  
   
   
   
