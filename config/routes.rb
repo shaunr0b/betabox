@@ -27,10 +27,10 @@ Betabox::Application.routes.draw do
     resources :phones
     resources :addresses
     
-    resources :shows
-    resources :acts
+    #resources :shows
+    #resources :acts
     resources :tickets
-    resources :tiers
+    #resources :tiers
     
     resources :products
     resources :product_groups

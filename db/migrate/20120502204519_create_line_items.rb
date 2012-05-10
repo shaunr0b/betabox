@@ -5,7 +5,7 @@ class CreateLineItems < ActiveRecord::Migration
       t.string :description
       t.decimal :price
       t.references :order 
-      
+      t.references :product
       t.timestamps
     end
   end

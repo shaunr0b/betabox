@@ -17,6 +17,8 @@ class Order < ActiveRecord::Base
   has_one :shipping_address, :class_name => "Address", :as => :addressable, :foreign_key => "shipping_address_id"
   
   
+  # :open, :submitted, 
+  
   # :still_shopping, :processing_payment, :shipping, :complete
   #state_machine :state, :initial => :still_shopping do
      
